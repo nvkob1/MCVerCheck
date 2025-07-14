@@ -18,7 +18,7 @@ It tells you **which version each world was last saved in**, so you can avoid co
 ### **Credits**
 
 * Data from the [Minecraft Wiki](https://minecraft.wiki/w/Java_Edition_data_values/Protocol_and_data_versions)
-* Tool by **\nvkob1**
+* Tool by **nvkob1**
 
 ---
 
